@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プライス・タグ",
+  "base_artist": "Jessie J",
+  "createdAt": "2026-03-08T06:00:22.096240Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Price Tag feat. B.o.B",
+      "artist": "Jessie J",
+      "has_synced": false,
+      "path": "select/pl_01_Price_Tag_feat._B.o.B_Jessie_J.txt"
+    }
+  ]
+}
